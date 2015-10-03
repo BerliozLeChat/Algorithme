@@ -1,1 +1,3 @@
 language: java
+script :
+  -"javac TP1/src/Application.java"
